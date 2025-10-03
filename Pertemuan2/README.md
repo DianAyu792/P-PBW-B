@@ -50,16 +50,13 @@ Aplikasi ini mencakup implementasi beberapa konsep dasar PHP:
 
 ## Tampilan Aplikasi  
 
-### Tampilan Awal Form  
-*(Letakkan screenshot tampilan form kosong di sini)*  
+### Tampilan Awal Form   
 ![Tampilan Form](img/TampilanForm.png)  
 
-### Tampilan Setelah Pendaftaran Berhasil  
-*(Letakkan screenshot setelah berhasil submit data)*  
+### Tampilan Setelah Pendaftaran Berhasil    
 ![Tampilan Sukses](img/TampilanBerhasil.png)  
 
 ### Contoh Pesan Error Validasi  
-*(Letakkan screenshot saat ada error validasi input)*  
 ![Tampilan Error](img/TampilanError.png)  
 
 ---
