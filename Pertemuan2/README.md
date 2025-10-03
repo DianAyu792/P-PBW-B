@@ -52,15 +52,15 @@ Aplikasi ini mencakup implementasi beberapa konsep dasar PHP:
 
 ### Tampilan Awal Form  
 *(Letakkan screenshot tampilan form kosong di sini)*  
-![Tampilan Form](C:\Users\imayz\OneDrive\Pictures\Screenshots\TampilanForm.png)  
+![Tampilan Form](img/TampilanForm.png)  
 
 ### Tampilan Setelah Pendaftaran Berhasil  
 *(Letakkan screenshot setelah berhasil submit data)*  
-![Tampilan Sukses](C:\Users\imayz\OneDrive\Pictures\Screenshots\TampilanBerhasil.png)  
+![Tampilan Sukses](img/TampilanBerhasil.png)  
 
 ### Contoh Pesan Error Validasi  
 *(Letakkan screenshot saat ada error validasi input)*  
-![Tampilan Error](C:\Users\imayz\OneDrive\Pictures\Screenshots\TampilanError.png)  
+![Tampilan Error](img/TampilanError.png)  
 
 ---
 
